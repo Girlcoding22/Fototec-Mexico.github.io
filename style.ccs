@@ -1,11 +1,12 @@
 h{
 font-size:22px;
-text-align:center;
+text-align: center;
 color:beige;
 }
 p{
 color:beige;
 font-size:24px;
+text-align:right;
 }
 html{
 background-color:navy;
