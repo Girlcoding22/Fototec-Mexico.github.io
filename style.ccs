@@ -1,0 +1,11 @@
+h{
+text-size:22px;
+text-align:left-align;
+}
+
+p{
+color:beige;
+}
+img{
+text-align:center;
+}
